@@ -32,7 +32,7 @@ Bot Telegram untuk mengelola dan memantau perangkat GenieACS dengan mudah. Bot i
 
 1. **Clone repository ini**
    ```bash
-   git clone https://github.com/alijayanet/telebot-acs
+   git clone https://github.com/azizridhowi/telebot-acs
    cd telebot-acs
    ```
 
@@ -48,7 +48,7 @@ Bot Telegram untuk mengelola dan memantau perangkat GenieACS dengan mudah. Bot i
    ```
    Buka dan edit file `.env` menggunakan teks editor (misal: `nano .env`):
    ```env
-   SERVER1_NAME=ALIJAYA-NET
+   SERVER1_NAME=BERINGIN NETWORK
    SERVER1_BOT_TOKEN=1938127147:AAFMcxxxxxxxx
    SERVER1_ADMIN_IDS=56785xxxxxx
    SERVER1_GENIEACS_URL=http://192.168.8.xx:7557
@@ -125,13 +125,6 @@ Selain menggunakan perintah teks di atas, Anda juga dapat menggunakan **Menu Int
 - Data pelanggan disimpan terisolasi di `data/customers.json`
 - Hanya admin yang dapat mengakses fitur administratif
 - Kredensial sensitif dikonfigurasi melalui `.env` atau `config.js` tanpa terekspos di log
-
-## 🤝 Kontribusi & Komunitas
-
-Kontribusi selalu diterima! Silakan buat pull request atau laporkan issue jika menemukan bug.
-
-- 💬 WhatsApp: https://wa.me/6281947215703
-- 💬 Group Telegram: https://t.me/alijayaNetAcs
 
 ## 📄 Lisensi
 
