@@ -7,7 +7,7 @@ module.exports = {
     servers: {
         // Server 1
         server1: {
-            name: process.env.SERVER1_NAME || "ALIJAYA-NET",
+            name: process.env.SERVER1_NAME || "TELEBOT-ACS",
             botToken: process.env.SERVER1_BOT_TOKEN || "1938127147:AAFMcxxxxxxxx",
             adminIds: process.env.SERVER1_ADMIN_IDS ? process.env.SERVER1_ADMIN_IDS.split(',').map(id => id.trim()) : ["56785xxxxxx"],
             customers: {},
